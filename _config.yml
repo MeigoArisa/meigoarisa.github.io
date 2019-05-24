@@ -30,7 +30,7 @@ permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
 
 #Disqus configuration
-disqus_short_name: KKH
+disqus_short_name: xxx
 disqus_show_comment_count: true
 
 #Can be used for multiple author blogs ! Add name to post For more visit the sample

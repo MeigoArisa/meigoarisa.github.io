@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: OpenCVSharp
 permalink: /OpenCVSharp/
 ---

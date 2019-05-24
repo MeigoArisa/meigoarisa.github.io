@@ -1,6 +1,1 @@
-swift
-=====
-
-use swift skin
-
-![ThisIsADemoPhoto](/images/swift.png)
+개인 기술블로그 입니다.

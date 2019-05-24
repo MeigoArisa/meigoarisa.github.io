@@ -2,21 +2,27 @@
 layout: default
 ---
 <div class="row">
-	<div class="col-md-1"></div>
-	<div class="col-md-10">
+	<div class="col-md-1">
+	</div>
 
-	  	
+	<div class="col-md-10">
 	    <h1>{{ page.title }}</h1>
-	    <div id="google_translate_element" style="padding-right: 27px;float: left;"></div><script type="text/javascript">
+	    <div id="google_translate_element" style="padding-right: 27px;float: left;"></div>
+			<script type="text/javascript">
 			function googleTranslateElementInit() {
   				new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 				}
-		</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+		</script>
+		
+		
+		<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
         
 	    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</p>
 	  	<article class="blog-post-small blog-post-content">
 	    	{{ content }}
 	  	</article>
+	  	{% include author_block.html %}
+			</div>
 				<script>
 
 /**
@@ -37,7 +43,6 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% if site.disqus-shortname %}{% include disqus.html %}{% endif %}
-	  	{% include author_block.html %}
 	</div>
 	<div class="col-md-1"></div>
 </div>

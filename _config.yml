@@ -1,67 +1,44 @@
 # Site settings
-title: Your Title
-author: author
-email:
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Swift
+description: A clean minimal Theme for Jekyll
+email: pranav@maangalabs.com
+baseurl: 
+url: "http://meigoarisa.github.io" # the base hostname & protocol for your site
+#favicon
+favicon: /favicon.png
 
-# Site URL NOTE: if your site is base on subdir /blog you should change base to "/blog"
-domain: "http://meigoarisa.github.io" # the domain URL for your site
-base: ""  # the relative path that different with domain so you can test locally
+#feed
+feedburner_username: maangalabs
+#twitter
+twitter_username: pranavrajs
+github_username:  pranavrajs
 
-# Source URL NOTE: end with / cause it's [URL + FILE]
-w3c_url: "/w3c/"  # the base url of css js and images
-images_url: "/w3c/images/" # the base url of post images
-postfile: "/db/Postfile" # the Database
-sitefile: "/db/Sitefile" # the Database
+#linkedin
+linkedin_username: pranavrajs
 
-# pagination
-page_size: 3
+#google analytics
+google_analytics_id : UA-53386152-2
+#gplus
+gplus_username: 101893920934936418705
 
-# comment settings
-duoshuo_short_name: "sbys" # the user of user.domain.com
-duoshuo_user_uid: "6324572809590735618" # the admin user uid
-duoshuo_user_name: "xk" # the admin user name
-duoshuo_max_depth: "2"  # the max_depth setting in duoshuo comments
+#fb_username
+fb_username: pranav.tayberrycreative
 
-# 3rd URL
-duoshuo_url: "/w3c/duoshuo/embed.min.js" # the local duoshuo comment plugin, you can change it to remote "http://static.duoshuo.com/"
-jquery_url: "http://cdn.bootcss.com/jquery/3.1.0/jquery.min.js" # use cdn
-baiduTemplate_url: "/w3c/js/baiduTemplate.js" #use local
-google_analytics_id: ""
-baidu_tongji_id: ""
-
-# Build Settings
-excerpt_separator: "\n\n" # you can specify your own separator here, default is "\n\n" String
-permalink: /:year/:month/:day/:title.html
-highlighter: rouge
+#permalink /blog/2014/11/11/this-is-a-sample-post
+permalink: /blog/:year/:month/:day/:title
+# Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: true # a newline in markdown text would be changed to <br>
-gems:
-  - jemoji    # enable the github emoji
-version: 1.1.0
 
-# Following is got in Github Help With Configuring Jekyll
+#Disqus configuration
+disqus_short_name: maangalabscom
+disqus_show_comment_count: true
 
-# Github Page Default Settings which you can override:
-# kramdown:
-#   input: GFM
-#   hard_wrap: false
-# gems:
-#   - jekyll-coffeescript
-#   - jekyll-paginate
-
-# Github Page override the following settings which you cannot change:
-# lsi: false
-# safe: true
-# source: [your repo's top level directory]
-# incremental: false
-# highlighter: rouge
-# gist:
-#  noscript: false
-# kramdown:
-#  math_engine: mathjax
+#Can be used for multiple author blogs ! Add name to post For more visit the sample
+authors:
+  pranavrajs:
+    display_name: Pranav Raj S
+    email: pranavrajs@gmail.com
+    fb: pranav.tayberrycreative
+    linkedin: pranavrajs
+    twitter: pranavrajs
+    github: pranavrajs

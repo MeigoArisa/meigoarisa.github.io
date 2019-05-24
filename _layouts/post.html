@@ -14,15 +14,10 @@ layout: default
 		</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
         
 	    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</p>
-
-	   
 	  	<article class="blog-post-small blog-post-content">
 	    	{{ content }}
 	  	</article>
-	  	
-	  	
-	  	{% include author_block.html %}
-			<script>
+				<script>
 
 /**
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
@@ -42,6 +37,7 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% if site.disqus-shortname %}{% include disqus.html %}{% endif %}
+	  	{% include author_block.html %}
 	</div>
 	<div class="col-md-1"></div>
 </div>

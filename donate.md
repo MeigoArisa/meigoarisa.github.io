@@ -4,5 +4,5 @@ title: Donate
 permalink: /donate/
 ---
 
+한푼만 주십셔..~~,,,ㅠㅠ
 
-Page is under construction and i'll be adding more details soon.

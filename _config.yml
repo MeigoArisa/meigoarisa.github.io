@@ -1,28 +1,28 @@
 # Site settings
-title: Swift
-description: A clean minimal Theme for Jekyll
-email: pranav@maangalabs.com
+title: 김강현 개인 기술블로그
+description: 삶 좀 편해지고싶은 사람의 개인 블로그입니다.
+email: wwponv158@gmail.com
 baseurl: 
 url: "http://meigoarisa.github.io" # the base hostname & protocol for your site
 #favicon
 favicon: /favicon.png
 
 #feed
-feedburner_username: maangalabs
+feedburner_username:
 #twitter
-twitter_username: pranavrajs
-github_username:  pranavrajs
+twitter_username:
+github_username: 
 
 #linkedin
-linkedin_username: pranavrajs
+linkedin_username: 
 
 #google analytics
-google_analytics_id : UA-53386152-2
+google_analytics_id : 
 #gplus
-gplus_username: 101893920934936418705
+gplus_username: 
 
 #fb_username
-fb_username: pranav.tayberrycreative
+fb_username:
 
 #permalink /blog/2014/11/11/this-is-a-sample-post
 permalink: /blog/:year/:month/:day/:title
@@ -30,15 +30,15 @@ permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
 
 #Disqus configuration
-disqus_short_name: maangalabscom
+disqus_short_name: 
 disqus_show_comment_count: true
 
 #Can be used for multiple author blogs ! Add name to post For more visit the sample
 authors:
   pranavrajs:
-    display_name: Pranav Raj S
-    email: pranavrajs@gmail.com
-    fb: pranav.tayberrycreative
-    linkedin: pranavrajs
-    twitter: pranavrajs
-    github: pranavrajs
+    display_name: kanghyune kim
+    email: wwponv158@gmail.com
+    fb: 
+    linkedin: 
+    twitter: 
+    github: 

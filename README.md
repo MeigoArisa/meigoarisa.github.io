@@ -1,7 +1,6 @@
 swift
 =====
 
-A clean Minimal Blog theme for Jekyll , built with Bootswatch 
-
+use swift skin
 
 ![ThisIsADemoPhoto](/images/swift.png)

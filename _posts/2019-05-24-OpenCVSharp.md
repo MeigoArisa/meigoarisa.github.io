@@ -1,5 +1,12 @@
-**Mat**구조체는 OpenCVSharp 에서 가장 기본이 되는 데이터 타입의 행렬 구조체이다.
+---
+layout: post
+title: OpenCVSharp Mat structure
+categories: OpenCVSharp
+---
 
+
+
+**Mat**구조체는 OpenCVSharp 에서 가장 기본이 되는 데이터 타입의 행렬 구조체이다.
 
  **Mat**(IntPtr ptr);   
  **Mat**(**Mat** m, Rect roi);   

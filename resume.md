@@ -16,7 +16,7 @@ GitHub https://github.com/MeigoArisa/
 ```
 ## Experience
 
-### 2018-072018-07 - 2019-012019-01 IAMSOFT
+### 2018-07- 2019-01 “ㅇ” 사
 
 #### **직책: 연구원**
 
@@ -62,7 +62,7 @@ GitHub https://github.com/MeigoArisa/
 - **원격 조종을 위한 마우스 포지셔닝과 키보드 마우스 후킹 기능 구현을 담당함.**
 - **서버와 클라이언트간의 통신, 화면 공유, 클립보드 공유 기능을 만듦**
 
-##### 
+
 
 
 ### Masering Spring Web 101 Workshop

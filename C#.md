@@ -1,7 +1,7 @@
 ---
 layout: page
-title: C#;
+title: C#
 permalink: /CSharp/
 ---
 
-C&#35; 글
+C&#35;

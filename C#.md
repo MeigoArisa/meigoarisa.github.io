@@ -1,7 +1,7 @@
 ---
 layout: page
-title: C#
-permalink: /C#/
+title: C&#35;
+permalink: /C&#35;/
 ---
 
-C# 글
+C&#35; 글

@@ -4,5 +4,5 @@ title: Donate
 permalink: /donate/
 ---
 
-한푼만 주십셔..~~,,,ㅠㅠ
+980-017287-01-018 IBK 기업은행 김강현
 

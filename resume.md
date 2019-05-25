@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenCVSharp
+title: Resume
 permalink: /resume/
 ---
 
@@ -9,16 +9,16 @@ permalink: /resume/
 ## IT/Software
 
 ```
-PhonePhone +82-10-9098-
+PhonePhone +82-10-9098-9279
 E-mailE-mail wwponv158@gmail.com
 Date	of	birthDate	of	birth 1998-06-
 ```
 ```
 GitHubGitHub https://github.com/MeigoArisa/
 ```
-## ExperienceExperience
+## Experience
 
-### 2018-072018-07	-	- 2019-012019-01 IAMSOFTIAMSOFT
+### 2018-072018-07	-	- 2019-012019-01 IAMSOFT
 
 #### 연구원
 
@@ -71,10 +71,10 @@ GitHubGitHub https://github.com/MeigoArisa/
 - 원격	조종을	위한	마우스	포지셔닝과	키보드	마우스	후킹	기능	구현을	담당함.
 - 서버와	클라이언트간의	통신,	화면	공유,	클립보드	공유	기능을	만듦
 
-##### 1
+##### 
 
 
-### Mastering	Spring	Web	101	WorkshopMastering	Spring	Web	101	Workshop
+### Masering	Spring	Web	101	WorkshopMastering	Spring	Web	101	Workshop
 
 #### Beta	Tester
 
@@ -87,36 +87,6 @@ GitHubGitHub https://github.com/MeigoArisa/
 크숍입니다.
 이	워크숍의	피드백을	하여	강의	내용을	개선시키는	베타	테스터를	하였습니다.
 ```
-## EducationEducation
-
-### 2017-032017-03	-	- 2019-022019-02 마산대학교마산대학교
-
-##### 전자통신학과
-
-##### 전문학사	졸업예정
-
-### 2014-032014-03	-	- 2017-022017-02 합포고등학교합포고등학교
-
-##### 고등학교	졸업
-
-### 2011-032011-03	-	- 2014-022014-02 마산동중학교마산동중학교
-
-##### 중학교	졸업
-
-### 2012-032012-03	-	- 2013-122013-12 경남대학교	과학영재교육원경남대학교	과학영재교육원
-
-##### 중등	심화	과정	(1년)
-
-##### 중등	사사	과정	(1년)
-
-```
-창의와	사사(Journal	of	Creativity	and	Mentorship)	Vol	11.	2013.
-안드로이드	플랫폼용	슈팅	게임	프로그램	개발
-```
-### 20052005 	-	- 2011-022011-02 교동초등학교교동초등학교
-
-##### 초등학교	졸업
-
 ## SkillsSkills
 
 ##### C#
@@ -130,4 +100,4 @@ Basic	Skill
 C++
 Basic	Skill
 ```
-##### 2
+##### 

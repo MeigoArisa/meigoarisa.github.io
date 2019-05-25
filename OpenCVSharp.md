@@ -4,5 +4,5 @@ title: OpenCVSharp
 permalink: /OpenCVSharp/
 ---
 
-Page is under construction and i'll be adding more details soon.
+[1.Mat](<https://meigoarisa.github.io/blog/2019/05/24/OpenCVSharp-Mat-Structure>)
 

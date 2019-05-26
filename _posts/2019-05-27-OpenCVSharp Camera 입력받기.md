@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenCVSharp Camera 입력 받기
+title: OpenCVSharp Camera 입력받기
 categories: OpenCVSharp
 
 ---

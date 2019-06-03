@@ -41,11 +41,11 @@ ThresholdTypes에서 처리할 알고리즘을 선택합니다.
 
 ![Image Alt ]({{site.url}}/images/Binarization/Binari2.PNG )
 
-![Image Alt ]({{site.url}}/images/Binarization/Binari3.PNG )
+![Image Alt ]({{site.url}}/images/Binarization/Binari3.png )
 
 ![Image Alt ]({{site.url}}/images/Binarization/Binari4.PNG )
 
-![Image Alt ]({{site.url}}/images/Binarization/Binari5.PNG )
+![Image Alt ]({{site.url}}/images/Binarization/Binari5.png )
 
 ![Image Alt ]({{site.url}}/images/Binarization/Binari6.PNG )
 

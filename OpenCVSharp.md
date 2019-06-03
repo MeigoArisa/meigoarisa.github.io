@@ -14,3 +14,5 @@ permalink: /OpenCVSharp/
 
 [5. GrayScale](https://meigoarisa.github.io/blog/2019/06/01/1-OpenCVSharp-GrayScale)
 
+[6. Binarization](<https://meigoarisa.github.io/blog/2019/06/04/1-OpenCVSharp-Binarization>)
+

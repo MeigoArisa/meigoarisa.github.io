@@ -37,16 +37,16 @@ ThresholdTypes에서 처리할 알고리즘을 선택합니다.
 
 결과:
 
-![Image Alt ]({{site.url}}/images/Binarization/Binari1.PNG )
+![Image Alt ]({{site.url}}/images/Binarization/Binari1.PNG ){: width="80%" height="80%"}
 
-![Image Alt ]({{site.url}}/images/Binarization/Binari2.PNG )
+![Image Alt ]({{site.url}}/images/Binarization/Binari2.PNG ){: width="80%" height="80%"}
 
-![Image Alt ]({{site.url}}/images/Binarization/Binari3.png )
+![Image Alt ]({{site.url}}/images/Binarization/Binari3.png ){: width="80%" height="80%"}
 
-![Image Alt ]({{site.url}}/images/Binarization/Binari4.PNG )
+![Image Alt ]({{site.url}}/images/Binarization/Binari4.PNG ){: width="80%" height="80%"}
 
-![Image Alt ]({{site.url}}/images/Binarization/Binari5.png )
+![Image Alt ]({{site.url}}/images/Binarization/Binari5.png ){: width="80%" height="80%"}
 
-![Image Alt ]({{site.url}}/images/Binarization/Binari6.PNG )
+![Image Alt ]({{site.url}}/images/Binarization/Binari6.PNG ){: width="80%" height="80%"}
 
 <br>

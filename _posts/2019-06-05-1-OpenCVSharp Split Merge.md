@@ -72,7 +72,7 @@ Cv2.Merge(Mat[], Mat);
 
 ![Image Alt ]({{site.url}}/images/Split/Green.PNG ){: width="80%" height="80%"}
 
-![Image Alt ]({{site.url}}/images/Split/Red.png ){: width="80%" height="80%"}
+![Image Alt ]({{site.url}}/images/Split/Red.PNG ){: width="80%" height="80%"}
 
 ![Image Alt ]({{site.url}}/images/Split/remerge.PNG ){: width="80%" height="80%"}
 

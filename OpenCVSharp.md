@@ -16,3 +16,5 @@ permalink: /OpenCVSharp/
 
 [6. Binarization](<https://meigoarisa.github.io/blog/2019/06/04/1-OpenCVSharp-Binarization>)
 
+[7. Split Merge](<https://meigoarisa.github.io/blog/2019/06/05/1-OpenCVSharp-Split-Merge>)
+

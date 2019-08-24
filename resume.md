@@ -12,15 +12,25 @@ permalink: /resume/
 E-mail: wwponv158@gmail.com
 ```
 ```
-GitHub https://github.com/MeigoArisa/
+GitHub https://github.com/kimkanghyune/
 ```
 ## Experience
+
+**2019-03- 2019-06 “B” 사**
+
+• Kinect v2 를 이용한 모션인식 게임 제작
+
+
+
+------
+
+
 
 ### 2018-07- 2019-01 “ㅇ” 사
 
 #### **직책: 연구원**
 
-##### **• 지역 SW 융합 사업지역**
+##### **2018-07- 2019-01 “ㅇ” 사**
 
 ##### **• 콤프레셔 고장 예지 진단 시스템**
 
@@ -61,6 +71,8 @@ GitHub https://github.com/MeigoArisa/
 - **서버와 클라이언트 간의 원격 조종 핵심 시스템을 개발함**
 - **원격 조종을 위한 마우스 포지셔닝과 키보드 마우스 후킹 기능 구현을 담당함.**
 - **서버와 클라이언트간의 통신, 화면 공유, 클립보드 공유 기능을 만듦**
+
+------
 
 
 

@@ -21,7 +21,7 @@ Winform에 있는 CheckedListBox 라는 컨트롤이 있다.
 
 일단 유저 커스텀 컨트롤을 추가한다.
 
-![Image Alt ]({{site.url}}/images/2019-08-31-1/1.jpg ){: width="80%" height="80%"}
+![Image Alt ]({{site.url}}/images/2019-08-31-1/1.jpg ){:}
 
 그러고 난 뒤 커스텀 컨트롤에 CheckedListBox를 상속한다.
 그리고 아래와 같은 코드를 추가한다.
@@ -49,7 +49,7 @@ protected override void OnDrawItem(DrawItemEventArgs e)
 
 체크 표시를 하면 빨간색으로 글자가 바뀌는 것을 볼 수 있다.
 
-![Image Alt ]({{site.url}}/images/2019-08-31-1/2.jpg ){: width="80%" height="80%"}
+![Image Alt ]({{site.url}}/images/2019-08-31-1/2.jpg ){: }
 
 
 

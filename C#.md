@@ -10,3 +10,5 @@ C&#35;
 
 [A Graphics object cannot be created from an image that has an indexed pixel format.](<https://kimkanghyune.github.io/blog/2019/05/27/2-CSharp-A-Graphics-object-cannot-be-created-from-an-image-that-has-an-indexed-pixel-format.>)
 
+[C# CheckListBox 체크된 아이템 글자 색 변경](https://kimkanghyune.github.io/blog/2019/08/31/1-CSharp-CheckListBox-체크된-아이템-글자-색-변경)
+

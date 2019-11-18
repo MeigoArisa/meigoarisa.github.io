@@ -83,4 +83,6 @@ srcPoints 의 좌표를 Mat에서 따와 dstPoints 의 크기에 맞게 이미�
 
 
 
-예제 이미지: ![Image Alt ]({{site.url}}/images/2019-09-21-1/1.png ){:width="80%" height="80%" }
+예제 이미지:
+
+ ![Image Alt ]({{site.url}}/images/2019-09-21-1/1.png ){:width="80%" height="80%" }

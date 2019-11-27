@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenCVSharp Geometric trans
+title: OpenCVSharp BackgroundSubtractor
 categories: OpenCVSharp
 ---
 

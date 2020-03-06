@@ -13,8 +13,8 @@ categories: OpenCVSharp
 ```c#
 public void BackgroundSubtractor_Example()
 {
-	VideoCapture capture = new VideoCapture(0);
-	using var MOG2 = BackgroundSubtractorMOG2.Create();
+    VideoCapture capture = new VideoCapture(0);
+    using var MOG2 = BackgroundSubtractorMOG2.Create();
     using var MOG = BackgroundSubtractorMOG.Create();
     using var GMG = BackgroundSubtractorGMG.Create();
     using var KNN = BackgroundSubtractorKNN.Create();
@@ -49,15 +49,18 @@ public void BackgroundSubtractor_Example()
 
 
 
-BackgroundSubtractorMOG
+
+`BackgroundSubtractorMOG`
 
 이는 가우시안 혼합을 기반으로한 전경또는 배경을 분할하는 알고리즘이다.
 
-Mixture에 대한 가중치는 색상이 위치에 머무는 시간의 비율을 나타낸다.
+`Mixture`에 대한 가중치는 색상이 위치에 머무는 시간의 비율을 나타낸다.
 
 
 
-BackgroundSubtractorMOG2
+
+
+`BackgroundSubtractorMOG2`
 
 이는 가우시안 혼합을 기반으로한 전경또는 배경을 분할하는 알고리즘이다.
 
@@ -65,7 +68,9 @@ BackgroundSubtractorMOG2
 
 
 
-BackgroundSubtractorGMG
+
+
+`BackgroundSubtractorGMG`
 
 이는 처음의 몇(120개) 프레임을 배경 모델링하는데 사용한다. 
 
@@ -81,7 +86,9 @@ BackgroundSubtractorGMG
 
 
 
-BackgroundSubtractorKNN
+
+
+`BackgroundSubtractorKNN`
 
 `BackgroundSubtractorMOG2` 및 `BackgroundSubtractorKNN` 은 서로 다른 두 개의 백그라운드 뺄셈 알고리즘을 구현 한 것이다. 
 

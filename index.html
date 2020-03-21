@@ -12,8 +12,8 @@ index: true
                 {% for post in site.posts %}
                   <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
                   <p><i class="fa fa-calendar"></i> &nbsp;{{ post.date | date: "%b %-d, %Y" }} | {% if site.disqus_short_name and page.comments != false and site.disqus_show_comment_count == true %}
-         <a href="{% if page.index %}{{ root_url }}{{ post.url }}{% endif %}#disqus_thread">Comments</a>
-        {% endif %}</p>
+                  <!--<a href="{% if page.index %}{{ root_url }}{{ post.url }}{% endif %}#disqus_thread">Comments</a>
+                  {% endif %}</p>
                   {% if post.content contains '<!-- more -->' %}
                     <!--<p>{{ post.content | split:'<!-- more -->' | first }}
                       <!--<br><br>
@@ -21,7 +21,7 @@ index: true
                     </p>
                   {% else %}
                     {{ post.content }}
-                  {% endif %}
+                  {% endif %}-->
                 {% endfor %}
               </div>
               <!-- End Blog Post Links -->
